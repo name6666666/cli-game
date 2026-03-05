@@ -1,0 +1,384 @@
+{
+    "manager": {
+        "py/object": "cli_game.components.ComponentsManager",
+        "_group": {
+            "1": [
+                {
+                    "py/object": "cli_game.components.debugger._Debugger",
+                    "_output": "input: a\n",
+                    "title": "debug",
+                    "accumulate": false
+                },
+                {
+                    "py/object": "cli_game.components.map.Map",
+                    "char_width": 3,
+                    "border": {
+                        "py/object": "cli_game.string_tool.Border",
+                        "left": "|",
+                        "right": "|",
+                        "top": "-",
+                        "bottom": "-",
+                        "left_top": "*",
+                        "right_top": "*",
+                        "left_bottom": "*",
+                        "right_bottom": "*",
+                        "min_width": 0,
+                        "style": "Fyellow"
+                    },
+                    "_list": [
+                        [
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 0,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 1,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 2,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 3,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 4,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 5,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 0,
+                                "_column": 6,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 1,
+                                "_column": 0,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 1,
+                                "_column": 1,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 1,
+                                "_column": 2,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 1,
+                                "_column": 3,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 1,
+                                "_column": 4,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 1,
+                                "_column": 5,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 1,
+                                "_column": 6,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 2,
+                                "_column": 0,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 2,
+                                "_column": 1,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 2,
+                                "_column": 2,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 2,
+                                "_column": 3,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 2,
+                                "_column": 4,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 2,
+                                "_column": 5,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 2,
+                                "_column": 6,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 3,
+                                "_column": 0,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 3,
+                                "_column": 1,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 3,
+                                "_column": 2,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 3,
+                                "_column": 3,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 3,
+                                "_column": 4,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 3,
+                                "_column": 5,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 3,
+                                "_column": 6,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 4,
+                                "_column": 0,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 4,
+                                "_column": 1,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 4,
+                                "_column": 2,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Monster",
+                                "_row": 4,
+                                "_column": 3,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 4,
+                                "_column": 4,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 4,
+                                "_column": 5,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 4,
+                                "_column": 6,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 5,
+                                "_column": 0,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 5,
+                                "_column": 1,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 5,
+                                "_column": 2,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Me",
+                                "_row": 5,
+                                "_column": 3,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 5,
+                                "_column": 4,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "cli_game.components.map.Void",
+                                "_row": 5,
+                                "_column": 5,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            },
+                            {
+                                "py/object": "__main__.Tree",
+                                "_row": 5,
+                                "_column": 6,
+                                "map": {
+                                    "py/id": 5
+                                }
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        "_activated": "1"
+    },
+    "_abc_impl": {}
+}
